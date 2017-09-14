@@ -5,6 +5,7 @@
       "dist/ramda.js",
       "test/*.js"
   ],
+
   "serve_files": [
       "tmp-test-bundle.js"
   ],
